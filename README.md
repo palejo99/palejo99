@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**palejo99/palejo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alejandro Patiño, Electronic engineer with experience in
+development of software. I'm a self-taugh person who likes to
+learn new things every day especially things related to tech. 
+I also like challenges because I can learn from them and they
+make me give my best. 
 
-Here are some ideas to get you started:
+In my free times, I'm learning web development in order to create my own apps and maybe to start my own business in the future. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://i.blogs.es/d8c7a7/red_neuronal/450_1000.jpg)
+
+# About my experience
+
+Software consultant with over 2 years of experience... 
+
+
+
